@@ -1,10 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jonathan Sexton",
 	"dependencies": {
 		"express": "^4.14.0"
-	},
-	"author": {
-		"name":"Jonathan Sexton"
 	},
 	"main": "server.js",
 	"scripts": {
