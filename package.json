@@ -3,6 +3,7 @@
 	"author": "Jonathan Sexton",
 	"description": "A starter project for backend development learning",
 	"keywords":["learn","learning","backend","back","back-end","programming","coding","freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
