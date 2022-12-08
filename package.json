@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jonathan Sexton",
+	"description": "A starter project for backend development learning",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
