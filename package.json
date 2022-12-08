@@ -4,6 +4,7 @@
 	"description": "A starter project for backend development learning",
 	"keywords":["learn","learning","backend","back","back-end","programming","coding","freecodecamp"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
